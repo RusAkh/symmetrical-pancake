@@ -1,6 +1,6 @@
 # 2D Convolution
 
-## What this does.
+## What this does
 
 This package takes black and white image as an input and returns the same image with features (horizontal or vertical) as an output. 
 
