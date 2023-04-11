@@ -2,7 +2,7 @@
 
 ## What this does
 
-This package takes black and white image as an input and returns the same image with features (horizontal or vertical) as an output. 
+This package takes black and white image as an input and returns the same image with horizontal or vertical features (aka lines) as an output. 
 
 Essentially, it means that after transformation, there will be left only horizontal or vertical (based on the parameter provided) lines on the picture.
 
